@@ -2,6 +2,8 @@
 
 Aibo ERS-7 run a special operating system developed by Sony, called Aperios.  Sony has released a software development kit, the OPEN-R SDK (written in C++). The development environment uses a slightly patched version of the 3.3 GCC compiler, and can be run on any UNIX based platform.
 
+An agent has been crafted to aid in developing with this system and has the knowledge to obtain and get the system ready for you on your Debian system, using modern packages. You can find it [here](https://github.com/cartheur-aibo/openr-debian).
+
 ### Specifications
 ```
     576MHz MIPS R7000
