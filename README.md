@@ -30,3 +30,5 @@ An agent has been crafted to aid in developing with this system and has the know
     1 boolean button under mouth
     Sensor updates every 32 ms, with 4 samples per update.
 ```
+----
+_It's just a machine but it is a very beautiful piece of design and... they do have personalities. Even if it's just programmed bits and bites, they are a joy to have around._
